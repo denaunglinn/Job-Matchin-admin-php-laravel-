@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/tailwind.css": "/css/tailwind.css",
+    "/resources/views/vendor/jsvalidation/bootstrap.php": "/resources/views/vendor/jsvalidation/bootstrap.php",
+    "/resources/views/vendor/jsvalidation/bootstrap4.php": "/resources/views/vendor/jsvalidation/bootstrap4.php",
+    "/resources/views/vendor/jsvalidation/bootstrap5.php": "/resources/views/vendor/jsvalidation/bootstrap5.php",
+    "/resources/views/vendor/jsvalidation/js/jsvalidation.js": "/resources/views/vendor/jsvalidation/js/jsvalidation.js",
+    "/resources/views/vendor/jsvalidation/js/jsvalidation.js.map": "/resources/views/vendor/jsvalidation/js/jsvalidation.js.map",
+    "/resources/views/vendor/jsvalidation/js/jsvalidation.min.js": "/resources/views/vendor/jsvalidation/js/jsvalidation.min.js",
+    "/resources/views/vendor/jsvalidation/js/jsvalidation.min.js.map": "/resources/views/vendor/jsvalidation/js/jsvalidation.min.js.map",
+    "/resources/views/vendor/jsvalidation/uikit.php": "/resources/views/vendor/jsvalidation/uikit.php",
+    "/vendor/jsvalidation/js/jsvalidation.js": "/vendor/jsvalidation/js/jsvalidation.js",
+    "/vendor/jsvalidation/js/jsvalidation.js.map": "/vendor/jsvalidation/js/jsvalidation.js.map",
+    "/vendor/jsvalidation/js/jsvalidation.min.js": "/vendor/jsvalidation/js/jsvalidation.min.js",
+    "/vendor/jsvalidation/js/jsvalidation.min.js.map": "/vendor/jsvalidation/js/jsvalidation.min.js.map"
+}
